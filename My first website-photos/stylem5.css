@@ -1,0 +1,120 @@
+body{
+  margin:0;
+  font-family:Verdana;
+}
+
+.hello{
+         font-size:xx-large;
+         font-weight:bold;
+}
+.align-korbo-toke{
+         text-align:justify;
+}
+
+.nameclass{
+         color:crimson;
+         font-size:xx-large;
+         font-weight:bold;
+}
+.dsc{
+         color:gray;
+}
+.link-button{
+          background-color: crimson;
+          color:white;
+          text-decoration: none;
+          padding: 10px 20px;
+          border-radius:5px;
+          background:linear-gradient(to left,crimson,tomato);
+}  
+.img1{
+      max-width: 100%;
+}
+.img2{
+  max-width: 100%;
+}
+.div-dimension{
+    margin-left:15%;
+    margin-top:5%;
+    float:left;
+    width:30%;
+}
+.section1{
+    height:600px;
+    background-image: url("header-bg.png");
+    background-repeat: no-repeat;
+    background-position:center;
+    
+}
+.section2{
+  height:770px;
+  background-image: url("biography-bg.png");
+  background-repeat: no-repeat;
+  
+  background-position:center;
+}
+.section3{
+  height:600px;
+  
+  background-image: url("latest-work-bg.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.keramoti{
+    text-align:center;
+    font-weight:bold;
+    font-size:40px;
+}
+.img3{
+  max-width: 100%;
+}
+.keramoti-div{
+    margin-left:5%;
+    margin-right:5%;
+    width:23.33%;
+    float:left;
+}
+.section4{
+  height:650px;
+  
+  background-image: url("footer-bg.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.hekmoti{
+    font-weight:bold;
+    text-align:center;
+    font-size:25px;
+}
+.hekmoti2{
+  text-align:center;
+}
+.hekmoti3{
+  text-align:center;
+  font-weight:bold;
+}
+.last-para-center{
+   margin-left:31%;
+   margin-right:40%;
+}
+.last-para-font{
+         width:500px;
+         text-align:justify;
+         font-weight:500;
+}
+.last-para{
+         background-color: crimson;
+         border-radius:5px;
+         width:500px;
+         text-align:center;
+         margin-left: 420px;
+         background:linear-gradient(to left,crimson,tomato);
+}
+.last-para-desc{
+  text-align:center;
+    color:lemonchiffon;
+    padding:10px 15px;
+}
+.footer-font{
+           font-size:small;
+}
