@@ -1,0 +1,11 @@
+body{
+            animation-name:Mitch-Starc;
+            animation-duration:2.3s;
+            animation-timing-function: linear;
+        }
+        @keyframes Mitch-Starc{
+           0% {background-image:url("Bouncing ball animation-photos/are-you-ready.jpg");}
+           10% {background-image:url("Bouncing ball animation-photos/rsg.jpg");}
+           12%{background-color: rebeccapurple;}
+           98% {background-image:url("Bouncing ball animation-photos/howzzat.jpg");}     
+       }
